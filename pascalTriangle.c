@@ -43,7 +43,6 @@ int main(int argc, char const *argv[])
                     else{
                         printf("%d",arr[i][j]);
                     }
-
                 }
             }
             else
